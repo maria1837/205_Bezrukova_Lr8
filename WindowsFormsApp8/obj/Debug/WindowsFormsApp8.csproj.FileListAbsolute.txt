@@ -1,0 +1,54 @@
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+X:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+X:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+X:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+G:\Общая для записи студентам\205 гр\205 VS\Безрукова\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+G:\Общая для записи студентам\205 гр\205 VS\Безрукова\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+G:\Общая для записи студентам\205 гр\205 VS\Безрукова\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form2.resources
+G:\Общая для записи студентам\205 гр\205 VS\Безрукова\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+G:\Общая для записи студентам\205 гр\205 VS\Безрукова\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+G:\Общая для записи студентам\205 гр\205 VS\Безрукова\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+G:\Общая для записи студентам\205 гр\205 VS\Безрукова\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+G:\Общая для записи студентам\205 гр\205 VS\Безрукова\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\Мария\Downloads\горелов\drive-download-20230517T140302Z-001\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.AssemblyReference.cache
+C:\Users\Мария\Downloads\горелов\drive-download-20230517T140302Z-001\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Мария\Downloads\горелов\drive-download-20230517T140302Z-001\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\Мария\Downloads\горелов\drive-download-20230517T140302Z-001\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form2.resources
+C:\Users\Мария\Downloads\горелов\drive-download-20230517T140302Z-001\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\Мария\Downloads\горелов\drive-download-20230517T140302Z-001\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\Мария\Downloads\горелов\drive-download-20230517T140302Z-001\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Downloads\горелов\drive-download-20230517T140302Z-001\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\Мария\Downloads\горелов\drive-download-20230517T140302Z-001\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\Мария\Desktop\горелов\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.AssemblyReference.cache
+C:\Users\Мария\Desktop\горелов\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Мария\Desktop\горелов\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\Мария\Desktop\горелов\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form2.resources
+C:\Users\Мария\Desktop\горелов\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\Мария\Desktop\горелов\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\Мария\Desktop\горелов\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Desktop\горелов\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\Мария\Desktop\горелов\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\Мария\Desktop\горелов\лр 8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.AssemblyReference.cache
+C:\Users\Мария\Desktop\горелов\лр 8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Мария\Desktop\горелов\лр 8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\Мария\Desktop\горелов\лр 8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form2.resources
+C:\Users\Мария\Desktop\горелов\лр 8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\Мария\Desktop\горелов\лр 8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\Мария\Desktop\горелов\лр 8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Desktop\горелов\лр 8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\Мария\Desktop\горелов\лр 8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\Мария\Desktop\горелов\лр 8\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\Мария\Desktop\горелов\лр 8\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\Мария\Desktop\горелов\лр 8\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
